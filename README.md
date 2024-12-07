@@ -1,6 +1,5 @@
 # ProductTrace - Final Project
 
-### Blockchain based Fake product identification Solution using QR Codes
 
 ## Team Members:-
 - Sagar Verma - 885163998 - sv2000.sagarverma@csu.fullerton.edu
