@@ -23,8 +23,22 @@ stage, which will be stored and tracked on the blockchain.
 - npm 7.5.1
 - Metamask browser extension
 
+## Features Supported
+- Landing page where the user can head to the Manufacturer, Seller Or Consumer.
+- As a Manufacturer we can 
+    1. Add a Product
+    2. Add a Seller
+    3. Sell a Product from Manufacturer to Seller
+    4. Get the list of sellers using a Manufacturer.
+- As a Seller we can 
+    1. Sell the Product to a Consumer.
+    2. List the Products for sale.
+- As a Consumer we can
+    1. Check the Consumer Purchase History
+    2. Product Verification
+- Generate a QR code for a unique Product so that it can be used as a mode of validation. 
     
-## setup process 
+## Setup process 
 
 1. Clone the project
 2. Go to the root folder, and run following command to install required node modules:-
